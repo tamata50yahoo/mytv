@@ -1,0 +1,541 @@
+#EXTM3U
+#EXTINF:0,VTV1
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV2
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV3
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV4
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV5
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV6
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV7
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV8
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTV9
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,V.News
+#EXTGRP:VTV
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,An Ninh TV
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Nhân Dân TV
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Quốc Phòng TV
+#EXTGRP:VTV
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Quốc Hội TV
+
+#EXTINF:0,SCTV1 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv1
+#EXTINF:0,SCTV2 HD
+#EXTGRP:SCTV
+https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
+#EXTINF:0,SCTV3 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv3
+#EXTINF:0,SCTV4 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv4
+
+#EXTINF:0,SCTV6 HD
+#EXTGRP:SCTV
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,SCTV7 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv7
+#EXTINF:0,SCTV8 HD
+#EXTGRP:SCTV
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
+#EXTINF:0,SCTV9 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv9
+
+#EXTINF:0,SCTV11 HD
+#EXTGRP:SCTV
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+#EXTINF:0,SCTV12 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v2/getlink/sctv/sctv12/playlist.m3u8
+#EXTINF:0,SCTV13 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv13
+#EXTINF:0,SCTV14 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv14
+#EXTINF:0,SCTV15 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv15
+#EXTINF:0,SCTV16 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv16
+#EXTINF:0,SCTV17 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv17
+#EXTINF:0,SCTV18 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v2/getlink/sctv/sctv18/playlist.m3u8
+#EXTINF:0,SCTV19 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv19
+#EXTINF:0,SCTV20 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv20
+#EXTINF:0,SCTV21 HD
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv21
+#EXTINF:0,SCTV22 HD
+#EXTGRP:SCTV
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:0,SCTV HD Phim Tổng Hợp
+#EXTGRP:SCTV
+https://api.vthanhtivi.pw/v1/getlink/sctv-tv24/sctv
+#EXTINF:0,BTV5 HD
+#EXTGRP:SCTV
+https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
+#EXTINF:0,HTV1
+#EXTGRP:HTV
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV2 HD
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV3
+#EXTGRP:HTV
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV Key
+#EXTGRP:HTV
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HTV7 HD
+#EXTGRP:HTV
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTV9 HD
+#EXTGRP:HTV
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,HTVC Ca Nhạc
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Du Lịch & Cuộc Sống
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC Gia Đình
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Phim
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Phụ Nữ
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Thuần Việt HD
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Thuần Việt
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Plus
+#EXTGRP:HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:0,VTC1
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTC2
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC3
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTC4
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTC5
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC6
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC7
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC8
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC9
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC10
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC11
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC12
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC13
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8?cc
+#EXTINF:0,VTC14
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,VTC16
+#EXTGRP:VTC
+https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,An Viên HD
+#EXTGRP:AVG
+https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BTV4 iMOVIE TV
+#EXTGRP:AVG
+https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Viet Teen
+#EXTGRP:AVG
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,SAM CHANNEL
+#EXTGRP:AVG
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0,ON Football 
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Sports News 
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Golf 
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_GOLF_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Sports
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON VFF
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_ONVFFTV/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,ON Sport plus
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_HAY_TV/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,Vie Giải Trí HD
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
+#EXTINF:0,VTVcab2 - ON Phim Việt
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
+#EXTINF:0,VTVcab4 - Phim Đặc Sắc
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/VAN_HOA/m20_index.m3u8
+#EXTINF:0,VTVcab5 - E Channel
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_E_CHANNEL/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,VTVcab7
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
+#EXTINF:0,VTVcab8 - BiBi
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
+#EXTINF:0,VTVcab9 - Info TV
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
+#EXTINF:0,VTVcab10 - ON Cine
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
+#EXTINF:0,VTVcab12 - Style TV
+#EXTGRP:VTVcab
+https://livevlive.vtvcab.vn/hls/OS_STYLE_TV_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:0,VTVcab15
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
+#EXTINF:0,VTVcab17 - Yeah1 TV
+#EXTGRP:VTVcab
+https://api.vthanhtivi.pw/v2/getlink/vtvgo/195/playlist.m3u8
+#EXTINF:0,Vie Dramas HD
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
+#EXTINF:0,VTVcab20 - VFamily
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/VFAMILY/m20_index.m3u8
+#EXTINF:0,VTVcab21 - Cartoon Kid
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
+#EXTINF:0,VTVcab22 - Life TV
+#EXTGRP:VTVcab
+https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
+
+#EXTINF:0,HBO
+#EXTGRP:Quốc Tế
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0,Cinemax
+#EXTGRP:Quốc Tế
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
+#EXTINF:0,Warner
+#EXTGRP:Quốc Tế
+http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,AXN HD
+#EXTGRP:Quốc Tế
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Cinema World
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,KIX
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Animax
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,BBC Cbeebies
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Baby First
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:Quốc Tế
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Nat Geo WILD
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Discovery Asia
+#EXTGRP:Quốc Tế
+http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,BBC Earth
+#EXTGRP:Quốc Tế
+http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Quốc Tế
+http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Outdoor Channel
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Da Vinci
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Love Nature
+#EXTGRP:Quốc Tế
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:0,BBC Lifestyle
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+#EXTINF:0,Blue Ant Entertainment
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Blue Ant Extreme
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Asian Food Network
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,KBS World
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,NHK World
+#EXTGRP:Quốc Tế
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,Fashion TV
+#EXTGRP:Quốc Tế
+http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0,An Giang
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
+#EXTINF:0,Bà Rịa – Vũng Tàu
+#EXTGRP:Địa Phương
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
+#EXTINF:0,Bắc Giang
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Bạc Liêu
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:0,Bến Tre
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Bình Định
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Bình Dương1
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Bình Dương2
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Bình Phước1
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Bình Phước2
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,BTV6 Bình thuận
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Bình Thuận
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Cao Bằng
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
+#EXTINF:0,Cà Mau
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Cần Thơ
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Đà Nẵng 1
+#EXTGRP:Địa Phương
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:0,Đà Nẵng 2
+#EXTGRP:Địa Phương
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:0,Đắk Lắk
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Điện Biên
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Đồng Nai1
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Đồng Tháp
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Gia Lai
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Hà Giang
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Hà Nam
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Hà Nội 1
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Hà Nội 2
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Hà Tĩnh
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Kiên Giang
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Kon Tum
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Lâm Đồng
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Lạng Sơn
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Lào Cai
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Long An
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Nam Định
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Nghệ An
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Ninh Bình
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Ninh Thuận
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Phú Thọ
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Phú Yên
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Quảng Bình
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Quảng Nam
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Quảng Ngãi
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Quảng Ninh1
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Quảng Ninh3
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Quảng Trị
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Sóc Trăng
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Sơn La
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Tây Ninh
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Thái Bình
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Thái Nguyên
+#EXTGRP:Địa Phương
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:0,Thanh Hóa
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Thừa Thiên Huế
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Tiền Giang
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Trà Vinh
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Tuyên Quang
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Vĩnh Long 1 HD
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Vĩnh Long 2 HD
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Vĩnh Long 3 HD
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Vĩnh Long 4 HD
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Vĩnh Phúc
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Yên Bái
+#EXTGRP:Địa Phương
+https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
